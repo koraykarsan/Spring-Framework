@@ -31,17 +31,17 @@ This project is a simple Spring Boot application that provides a RESTful web ser
 
 ### Installation
 
-Clone the repository:
+### Clone the repository:
 
    git clone https://github.com/yourusername/spring-boot-rest.git
    cd spring-boot-rest
 
-Build the project:
+### Build the project:
 
 mvn clean install
 
-Run the application:
+### Run the application:
 
 mvn spring-boot:run
 
-The application will start on http://localhost:8080.
+### The application will start on http://localhost:8080.
