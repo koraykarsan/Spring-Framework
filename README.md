@@ -33,8 +33,8 @@ This project is a simple Spring Boot application that provides a RESTful web ser
 
 ### Clone the repository:
 
-   git clone https://github.com/yourusername/spring-boot-rest.git
-   cd spring-boot-rest
+git clone https://github.com/yourusername/spring-boot-rest.git
+cd spring-boot-rest
 
 ### Build the project:
 
