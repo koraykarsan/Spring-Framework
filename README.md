@@ -1,6 +1,6 @@
 # Spring Boot REST Application
 
-This project is a simple Spring Boot application that provides a RESTful web service. It accepts HTTP GET requests at `/greeting` and responds with a JSON representation of a greeting. You can customize the greeting message with an optional `name` parameter in the query string.
+This project is a simple Spring Boot application that provides a RESTful web service. It accepts HTTP GET requests at `/greeting` and responds with a JSON representation of a greeting. You can customize the greeting message with an optional `name` parameter in the query string. The application will start on http://localhost:8080.
 
 ## Features
 
@@ -44,8 +44,6 @@ mvn clean install
 
 mvn spring-boot:run
 
-The application will start on http://localhost:8080.
-
-## In the screenshot below, you can see the main interface of Spring Initializr:
+# In the screenshot below, you can see the main interface of Spring Initializr:
 
 <img width="1265" alt="Screenshot 2024-05-21 at 15 41 38" src="https://github.com/koraykarsan/Spring-Framework/assets/108725475/02da60f4-5da7-4cc6-af2b-bd24d6b0b280">
