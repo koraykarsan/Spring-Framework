@@ -44,6 +44,6 @@ mvn clean install
 
 mvn spring-boot:run
 
-# In the screenshot below, you can see the main interface of Spring Initializr:
+## In the screenshot below, you can see the main interface of Spring Initializr:
 
 <img width="1265" alt="Screenshot 2024-05-21 at 15 41 38" src="https://github.com/koraykarsan/Spring-Framework/assets/108725475/02da60f4-5da7-4cc6-af2b-bd24d6b0b280">
