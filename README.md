@@ -8,12 +8,12 @@ This project is a simple Spring Boot application that provides a RESTful web ser
 - Returns a greeting message in JSON format
 - Customizable greeting message using a `name` query parameter
 
-### Prerequisites
+## Prerequisites
 
 - Java 11 or higher
 - Maven
 
-### Project Structure
+## Project Structure
 
 ├── src
 │ └── main
@@ -29,7 +29,7 @@ This project is a simple Spring Boot application that provides a RESTful web ser
 │ └── application.properties
 └── pom.xml
 
-### Installation
+## Installation
 
 ### Clone the repository:
 
